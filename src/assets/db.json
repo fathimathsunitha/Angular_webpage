@@ -1,0 +1,13 @@
+
+{
+  "employee":
+   [
+     {
+        "id":100,
+        "name":"fathima",
+        "doj":"10-10-2022",
+        "salary":1000000,
+        "email":"fathimath@gmail.com"
+      }
+    ]
+}
